@@ -3,9 +3,6 @@
 
 # Labenu Music Awards
 
-### Documentação da API: 
-
-
 <br>
 
 ### Sobre o projeto: 
