@@ -6,7 +6,6 @@
 <br>
 
 ### Sobre o projeto: 
-Projeto desenvolvido por: Maria Eduarda Lopes, Alex Kalawatis, Lucas Quevedo.
 **LAMA**, *Labenu Musical Awards*, um festival  com várias bandas famosas, 
 
 ### CADASTRO 
